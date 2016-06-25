@@ -42,8 +42,8 @@
 
       <ul class="nav navbar-nav navbar-center">
          
-         <li><a href="">Reactivar cuenta</a></li>
-         <li><a href="">Home Cliente</a></li>
+         <li><a href="index.php/Home_client/nombre-función">Reactivar cuenta</a></li>
+         <li><a href="index.php/Home_client/index">Home Cliente</a></li>
       </ul>
 
       <ul class="nav navbar-nav navbar-right">
